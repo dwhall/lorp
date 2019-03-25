@@ -60,3 +60,16 @@ use LCP to negotiate a better configuration.
 The base configuration is a slow data rate to allow the greatest chance
 at a successful initial link.  Higher data rates may be negotiated if
 the link quality is indicative of potential success at the higher rate.
+
+## Protocols
+
+No protocols are implemented yet.
+Here is a list of potential protocol support:
+
+- No protocol (raw data)
+- LCP Control
+- LCP Data
+- UTF-8 text
+- HeyMac
+- APRS
+- MessagePack structured data
